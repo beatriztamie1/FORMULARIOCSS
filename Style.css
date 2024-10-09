@@ -73,3 +73,6 @@ a+a, textarea {
 }
 
 
+input[type="date"] {
+color: #222;
+}
